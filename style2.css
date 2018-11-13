@@ -6,6 +6,9 @@
 #about_blue_list{
   color: blue;
 }
+body {
+  background-image: url(birds.png);
+}
 
 #about_yellow{
   border-style: solid;
